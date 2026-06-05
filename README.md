@@ -1,6 +1,5 @@
-# Advanced-MySQL-Sales-Analytics
-Advanced MySQL analytics project using CTEs, Window Functions, and Subqueries to track business profitability metrics.
 # Corporate Sales Performance & Profitability Analysis (MySQL)
+Advanced MySQL analytics project using CTEs, Window Functions, and Subqueries to track business profitability metrics.
 
 ## Project Overview
 This repository contains a suite of professional MySQL queries designed to extract business intelligence from transaction databases. The scripts address retail operations like month-over-month sales trends, regional customer rankings, and product portfolio margin auditing.
